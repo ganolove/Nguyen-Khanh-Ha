@@ -1,6 +1,8 @@
 import UIKit
 
 class StartViewController: UIViewController {
+    //変更します
+    
     
     private let userDefaults = UserDefaults.standard
     //各種類ボタンの定義
