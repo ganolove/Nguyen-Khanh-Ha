@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "生年月日"; ObjectID = "4oz-IT-j4M"; */
+"4oz-IT-j4M.text" = "生年月日";
+
+/* Class = "UITextField"; placeholder = "パスワード"; ObjectID = "6Jw-uS-L3a"; */
+"6Jw-uS-L3a.placeholder" = "パスワード";
+
+/* Class = "UILabel"; text = "Don't have an account ? "; ObjectID = "75l-d2-w7l"; */
+"75l-d2-w7l.text" = "Don't have an account ? ";
+
+/* Class = "UIButton"; normalTitle = "会員登録"; ObjectID = "76S-9q-MLy"; */
+"76S-9q-MLy.normalTitle" = "会員登録";
+
+/* Class = "UIButton"; normalTitle = "編集"; ObjectID = "95W-6e-pEr"; */
+"95W-6e-pEr.normalTitle" = "編集";
+
+/* Class = "UITextField"; placeholder = "生年月日を選んでください"; ObjectID = "B6P-ur-IVW"; */
+"B6P-ur-IVW.placeholder" = "生年月日を選んでください";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "CKa-wA-j9H"; */
+"CKa-wA-j9H.placeholder" = "Last name";
+
+/* Class = "UITextField"; placeholder = "Repeat password"; ObjectID = "EPp-5W-btb"; */
+"EPp-5W-btb.placeholder" = "Repeat password";
+
+/* Class = "UITextField"; placeholder = "メールアドレス"; ObjectID = "Hko-7H-3u0"; */
+"Hko-7H-3u0.placeholder" = "メールアドレス";
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "JA1-0n-Kcy"; */
+"JA1-0n-Kcy.normalTitle" = "キャンセル";
+
+/* Class = "UIButton"; normalTitle = "登録"; ObjectID = "Jye-Mi-suy"; */
+"Jye-Mi-suy.normalTitle" = "登録";
+
+/* Class = "UIButton"; normalTitle = "ログイン"; ObjectID = "Pbg-we-Ynm"; */
+"Pbg-we-Ynm.normalTitle" = "ログイン";
+
+/* Class = "UIButton"; normalTitle = "スタート"; ObjectID = "TGB-HP-fmj"; */
+"TGB-HP-fmj.normalTitle" = "スタート";
+
+/* Class = "UIButton"; normalTitle = "編集"; ObjectID = "XHa-bu-D97"; */
+"XHa-bu-D97.normalTitle" = "編集";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Zqn-UD-Mal"; */
+"Zqn-UD-Mal.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "Email address"; ObjectID = "eeU-uf-5KJ"; */
+"eeU-uf-5KJ.placeholder" = "Email address";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "gjJ-Yc-1iu"; */
+"gjJ-Yc-1iu.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "キャンセル"; ObjectID = "hXL-Sc-Uzi"; */
+"hXL-Sc-Uzi.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "Sign in: "; ObjectID = "qZr-rk-Btu"; */
+"qZr-rk-Btu.text" = "Sign in: ";
+
+/* Class = "UITextField"; placeholder = "First name "; ObjectID = "shA-5d-b0D"; */
+"shA-5d-b0D.placeholder" = "First name ";
+
+/* Class = "UISearchBar"; placeholder = "お菓子の名前を入力してください"; ObjectID = "tjc-gK-549"; */
+"tjc-gK-549.placeholder" = "お菓子の名前を入力してください";
